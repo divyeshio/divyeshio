@@ -1,8 +1,8 @@
 ### Hey 👋, I'm Divyesh <img align="right" src="https://komarev.com/ghpvc/?username=divyeshio" alt="divyeshio" />
 
-🔭 I’m currently working on Blazor, .NET, Azure, Microservices
-🌱 I’m currently learning MAUI, Jetpack Compose
-💬 Ask me about ASP.NET Core, C#, Firebase, Android
+🔭 I’m currently working on Blazor, .NET, Azure, Microservices</br>
+🌱 I’m currently learning MAUI, Jetpack Compose</br>
+💬 Ask me about ASP.NET Core, C#, Firebase, Android</br>
 📫 How to reach me: @divyeshio
 
 ## 🤝 Connect with me:
@@ -30,6 +30,9 @@
 <img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
 <img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+</br>
+</br>
+</br>
 
 ![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true)
 
