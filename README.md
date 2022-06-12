@@ -3,7 +3,7 @@
 🔭 I’m currently working on Blazor, .NET, Azure, Microservices</br>
 🌱 I’m currently learning MAUI, Jetpack Compose</br>
 💬 Ask me about ASP.NET Core, C#, Firebase, Android</br>
-📫 How to reach me: [@divyeshio][twitter]
+📫 How to reach me: [@divyeshio](https://twitter.com/divyeshio)
 
 ## 🤝 Connect with me:
 
