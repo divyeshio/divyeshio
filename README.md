@@ -1,4 +1,5 @@
 ### Hey 👋, I'm Divyesh
+<img align="right" src="https://komarev.com/ghpvc/?username=divyeshio" alt="divyeshio" />
 
 [![](https://vistr.dev/badge?repo=divyeshio.divyeshio&corners=square)](https://github.com/divyeshio/vistr.dev)
 [![](https://img.shields.io/badge/-@divyeshio-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/divyeshio)
