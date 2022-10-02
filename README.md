@@ -5,37 +5,41 @@
 💬 Ask me about ASP.NET Core, C#, Firebase, Android</br>
 📫 How to reach me: [@divyeshio](https://twitter.com/divyeshio)
 
-## 🤝 Connect with me:
+<h3 align="left">⭐ Programming Languages Working💬</h3>
 
-[![](https://vistr.dev/badge?repo=divyeshio.divyeshio&corners=square)](https://github.com/divyeshio/vistr.dev)
-[![](https://img.shields.io/badge/-@divyeshio-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/divyeshio)
-[![](https://img.shields.io/badge/-@divyeshio-%23181717?style=flat-square&logo=github)](https://github.com/divyeshio)
-[![](https://img.shields.io/badge/-Divyesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divyeshio/)](https://www.linkedin.com/in/divyeshio/)
+| Java | C  | JS | Kotlin |
+|-----------|-----------|-----------|-----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
 
-## 👨‍💻 Languages and Tools
+<h3 align="left">⭐ Development Side Working 💻</h3>
 
-<img align="left" alt="HTML5" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Kotlin" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Bootstrap" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NodeJS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Typescript"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="csharp"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="dotnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
-<img align="left" alt="aspnet"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
-<img align="left" alt="SQL"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Android"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Firebase"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Azure"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" />
-<img align="left" alt="AWS"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="VS Code"height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+|<h3 align="center">Mobile App Development 📱</h3>| <h3 align="center">Web Development 💻 </h3> |
+|:------------------------------------------------:|:-----------------------------------------:|
+| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Android" width="40" height="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/></p> |
 
-</br>
-</br>
-</br>
+<h3 align="left">⭐ Tools ⚙️ </h3>
 
+| Figma | Git | GitHub | Postman | 
+|-----------|-----------|-----------|-----------|
+|<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Android" width="40" height="40"/> |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Android" width="40" height="40"/> | <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" alt="Android" width="40" height="40"/> | <img src="https://logos-download.com/53577-postman-logo-download.html" alt="postman" width="40" height="40"/>|
+
+<h3 align="left">⭐ Connect with me on social media 📲 </h3>
+
+
+| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
+|-----------|-----------|-----------|-----------|-----------|-----------|
+| <p align="center"><a href="https://linkedin.com/in/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsoni0" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rahulsoni" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/16533680/divyesh-bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyeshio" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyeshio" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyeshio" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/divyesh.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyeshio" height="30" width="40" /></a></p> |
 ---
 
-| <a href="https://github.com/divyeshio/divyeshio"><img align="center" src="https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true" alt="Divyesh's github stats" /></a> | <a href="https://github.com/divyeshio/divyeshio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyeshio&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+</table>
+
+
+## 📊 GitHub Activity
+| ![Divyesh github stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&theme=radical) | ![Divyesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyeshio&theme=radical)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
