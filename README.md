@@ -34,12 +34,12 @@
 # Productivity Stats📈:
 <table>
   <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyeshio&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyeshio&theme=radical"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
 
 
 ## 📊 GitHub Activity
-| ![Divyesh github stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&theme=radical) | ![Divyesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyeshio&theme=radical)                                                                                                           |
+| ![Divyesh github stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true) | ![Divyesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyeshio&theme=dark&background=b523ff,8b55fe,40b0fe&currStreakLabel=fff&ring=fff&fire=ffffff&border_radius=5&border=a5a5a5)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&layout=compact) |
