@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Divyesh <img align="right" src="https://komarev.com/ghpvc/?username=divyeshio" alt="divyeshio" />
 
 🔭 I’m currently working on Blazor, .NET, Azure, Microservices</br>
-🌱 I’m currently learning MAUI, Jetpack Compose</br>
+🌱 I’m currently learning SolidJS, Jetpack Compose</br>
 💬 Ask me about ASP.NET Core, C#, Firebase, Android</br>
 📫 How to reach me: [@divyeshio](https://twitter.com/divyeshio)
 
