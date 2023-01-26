@@ -1,4 +1,4 @@
-<a href="https://www.enji.dev/work/contact">
+<a href="https://www.linkedin.com/in/divyeshio">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyeshio/divyeshio/main/header.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyeshio/divyeshio/main/header.svg" />
