@@ -1,10 +1,7 @@
 <a href="https://www.linkedin.com/in/divyeshio">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyeshio/divyeshio/main/header.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyeshio/divyeshio/main/header.svg" />
-    <img alt="" src="https://raw.githubusercontent.com/divyeshio/divyeshio/main/header.svg" width="100%" />
-  </picture>
+  <img src="hero.svg" width="800" height="400">
 </a>
+
 
 ### Hey 👋, I'm Divyesh <img align="right" src="https://komarev.com/ghpvc/?username=divyeshio" alt="divyeshio" />
 
