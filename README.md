@@ -2,10 +2,10 @@
   <img src="hero.svg" width="800" height="400">
 </a>
 
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/divyeshio?style=plastic)](https://peerlist.io/divyeshio)
 ### Hey 👋, I'm Divyesh <img align="right" src="https://komarev.com/ghpvc/?username=divyeshio" alt="divyeshio" />
 
-🔭 I’m currently working on Blazor, .NET, Azure, Microservices</br>
+🔭 I’m currently working on .NET, Azure, Microservices</br>
 🌱 I’m currently learning SolidJS, Jetpack Compose</br>
 💬 Ask me about ASP.NET Core, C#, Firebase, Android</br>
 📫 How to reach me: [@divyeshio](https://twitter.com/divyeshio)
@@ -31,7 +31,7 @@
 <h3 align="left">⭐ Connect with me on social media 📲 </h3>
 
 
-| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
+| Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Peerlist |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | <p align="center"><a href="https://linkedin.com/in/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyeshio" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rahulsoni" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/16533680/divyesh-bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyeshio" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyeshio" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyeshio" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/divyesh.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyeshio" height="30" width="40" /></a></p> |
 ---
