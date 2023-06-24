@@ -36,31 +36,28 @@
 | <p align="center"><a href="https://linkedin.com/in/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divyeshio" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rahulsoni" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/16533680/divyesh-bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="divyeshio" height="30" width="40" /></a> </p> | <p align="center"><a href="https://instagram.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divyeshio" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/divyeshio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyeshio" height="30" width="40" /></a> </p>|<p align="center"> <a href="https://www.facebook.com/divyesh.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divyeshio" height="30" width="40" /></a></p> |
 ---
 
-# Productivity Stats📈:
+# 📊 GitHub Activity
+
+<details open>
+  <summary>:zap: Recent Activity</summary>
+  
+<!--START_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: Stats</summary>
+  
+| ![Divyesh github stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true) | ![Divyesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyeshio&theme=dark&background=b523ff,8b55fe,40b0fe&currStreakLabel=fff&ring=40b0fe&fire=8b55fe&border_radius=5&border=a5a5a5)                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&layout=compact) |
+
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyeshio&theme=radical"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
+</details>
 
-
-## 📊 GitHub Activity
-| ![Divyesh github stats](https://github-readme-stats.vercel.app/api?username=divyeshio&show_icons=true&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&include_all_commits=true&count_private=true) | ![Divyesh GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyeshio&theme=dark&background=b523ff,8b55fe,40b0fe&currStreakLabel=fff&ring=40b0fe&fire=8b55fe&border_radius=5&border=a5a5a5)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&layout=compact) |
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/divyeshio/next-airbnb/pull/50) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-2. 🎉 Merged PR [#49](https://github.com/divyeshio/next-airbnb/pull/49) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-3. 🎉 Merged PR [#48](https://github.com/divyeshio/next-airbnb/pull/48) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-4. 💪 Opened PR [#48814](https://github.com/dotnet/aspnetcore/pull/48814) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-5. 🗣 Commented on [#2156](https://github.com/microsoft/reverse-proxy/issues/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
-6. 🎉 Merged PR [#46](https://github.com/divyeshio/next-airbnb/pull/46) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-7. 🎉 Merged PR [#47](https://github.com/divyeshio/next-airbnb/pull/47) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-8. 🎉 Merged PR [#44](https://github.com/divyeshio/next-airbnb/pull/44) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-9. 🗣 Commented on [#2156](https://github.com/microsoft/reverse-proxy/issues/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
-10. 💪 Opened PR [#2156](https://github.com/microsoft/reverse-proxy/pull/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
-<!--END_SECTION:activity-->
-
-## Badges
+## 🔰 Badges
 [![@divyeshio's Holopin board](https://holopin.io/api/user/board?user=divyeshio)](https://holopin.io/@divyeshio)
