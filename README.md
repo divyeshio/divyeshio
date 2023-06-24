@@ -49,4 +49,7 @@
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyeshio&langs_count=8&bg_color=b523ff,8b55fe,40b0fe&title_color=fff&text_color=fff&icon_color=ffffff&border_radius=5&border_color=a5a5a5&layout=compact) |
 
+<!--START_SECTION:activity-->
+
+## Badges
 [![@divyeshio's Holopin board](https://holopin.io/api/user/board?user=divyeshio)](https://holopin.io/@divyeshio)
