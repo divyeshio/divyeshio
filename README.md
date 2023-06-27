@@ -35,16 +35,16 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/divyeshio/next-airbnb/pull/50) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-2. 🎉 Merged PR [#49](https://github.com/divyeshio/next-airbnb/pull/49) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-3. 🎉 Merged PR [#48](https://github.com/divyeshio/next-airbnb/pull/48) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-4. 💪 Opened PR [#48814](https://github.com/dotnet/aspnetcore/pull/48814) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-5. 🗣 Commented on [#2156](https://github.com/microsoft/reverse-proxy/issues/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
-6. 🎉 Merged PR [#46](https://github.com/divyeshio/next-airbnb/pull/46) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-7. 🎉 Merged PR [#47](https://github.com/divyeshio/next-airbnb/pull/47) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-8. 🎉 Merged PR [#44](https://github.com/divyeshio/next-airbnb/pull/44) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-9. 🗣 Commented on [#2156](https://github.com/microsoft/reverse-proxy/issues/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
-10. 💪 Opened PR [#2156](https://github.com/microsoft/reverse-proxy/pull/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
+1. 🎉 Merged PR [#55](https://github.com/divyeshio/next-airbnb/pull/55) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+2. 🎉 Merged PR [#53](https://github.com/divyeshio/next-airbnb/pull/53) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+3. 🎉 Merged PR [#52](https://github.com/divyeshio/next-airbnb/pull/52) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+4. 🎉 Merged PR [#50](https://github.com/divyeshio/next-airbnb/pull/50) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+5. 🎉 Merged PR [#49](https://github.com/divyeshio/next-airbnb/pull/49) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+6. 🎉 Merged PR [#48](https://github.com/divyeshio/next-airbnb/pull/48) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+7. 💪 Opened PR [#48814](https://github.com/dotnet/aspnetcore/pull/48814) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+8. 🗣 Commented on [#2156](https://github.com/microsoft/reverse-proxy/issues/2156) in [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy)
+9. 🎉 Merged PR [#46](https://github.com/divyeshio/next-airbnb/pull/46) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+10. 🎉 Merged PR [#47](https://github.com/divyeshio/next-airbnb/pull/47) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
 <!--END_SECTION:activity-->
 
 </details>
