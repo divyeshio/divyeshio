@@ -35,16 +35,16 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/divyeshio/next-airbnb/pull/66) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-2. 🎉 Merged PR [#63](https://github.com/divyeshio/next-airbnb/pull/63) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-3. 🎉 Merged PR [#62](https://github.com/divyeshio/next-airbnb/pull/62) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-4. 🎉 Merged PR [#61](https://github.com/divyeshio/next-airbnb/pull/61) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-5. 🎉 Merged PR [#64](https://github.com/divyeshio/next-airbnb/pull/64) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-6. 🎉 Merged PR [#60](https://github.com/divyeshio/next-airbnb/pull/60) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-7. 🎉 Merged PR [#59](https://github.com/divyeshio/next-airbnb/pull/59) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-8. 🎉 Merged PR [#58](https://github.com/divyeshio/next-airbnb/pull/58) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-9. 🎉 Merged PR [#57](https://github.com/divyeshio/next-airbnb/pull/57) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-10. 🎉 Merged PR [#55](https://github.com/divyeshio/next-airbnb/pull/55) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+1. 🗣 Commented on [#48469](https://github.com/dotnet/aspnetcore/issues/48469#issuecomment-1637004661) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+2. 🎉 Merged PR [#66](https://github.com/divyeshio/next-airbnb/pull/66) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+3. 🎉 Merged PR [#63](https://github.com/divyeshio/next-airbnb/pull/63) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+4. 🎉 Merged PR [#62](https://github.com/divyeshio/next-airbnb/pull/62) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+5. 🎉 Merged PR [#61](https://github.com/divyeshio/next-airbnb/pull/61) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+6. 🎉 Merged PR [#64](https://github.com/divyeshio/next-airbnb/pull/64) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+7. 🎉 Merged PR [#60](https://github.com/divyeshio/next-airbnb/pull/60) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+8. 🎉 Merged PR [#59](https://github.com/divyeshio/next-airbnb/pull/59) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+9. 🎉 Merged PR [#58](https://github.com/divyeshio/next-airbnb/pull/58) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+10. 🎉 Merged PR [#57](https://github.com/divyeshio/next-airbnb/pull/57) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
 <!--END_SECTION:activity-->
 
 </details>
