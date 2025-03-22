@@ -35,7 +35,7 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10380](https://github.com/dotnet/dotnet-api-docs/issues/10380#issuecomment-2350773922) in [dotnet/dotnet-api-docs](https://github.com/dotnet/dotnet-api-docs)
+1. ❗ Opened issue [#61043](https://github.com/dotnet/aspnetcore/issues/61043) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 2. 💪 Opened PR [#629](https://github.com/nats-io/nats.net/pull/629) in [nats-io/nats.net](https://github.com/nats-io/nats.net)
 3. 🗣 Commented on [#316](https://github.com/nats-io/nats.net/issues/316#issuecomment-2341866283) in [nats-io/nats.net](https://github.com/nats-io/nats.net)
 4. 🗣 Commented on [#3062](https://github.com/Azure/azure-webjobs-sdk/issues/3062#issuecomment-2241533617) in [Azure/azure-webjobs-sdk](https://github.com/Azure/azure-webjobs-sdk)
