@@ -35,10 +35,10 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146#issuecomment-2773162132) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
-2. ❗ Opened issue [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
-3. ❗ Opened issue [#61043](https://github.com/dotnet/aspnetcore/issues/61043) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-4. 🗣 Commented on [#3062](https://github.com/Azure/azure-webjobs-sdk/issues/3062#issuecomment-2241533617) in [Azure/azure-webjobs-sdk](https://github.com/Azure/azure-webjobs-sdk)
+1. 🗣 Commented on [#4526](https://github.com/dotnet/efcore/issues/4526#issuecomment-2776137211) in [dotnet/efcore](https://github.com/dotnet/efcore)
+2. 🗣 Commented on [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146#issuecomment-2773162132) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
+3. ❗ Opened issue [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
+4. ❗ Opened issue [#61043](https://github.com/dotnet/aspnetcore/issues/61043) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 5. 🗣 Commented on [#71](https://github.com/divyeshio/next-airbnb/pull/71#issuecomment-2171989522) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
 6. ❗ Opened issue [#50665](https://github.com/dotnet/aspnetcore/issues/50665) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 7. 🗣 Commented on [#48185](https://github.com/dotnet/aspnetcore/issues/48185#issuecomment-1713833682) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
