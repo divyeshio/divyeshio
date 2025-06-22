@@ -35,8 +35,8 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4526](https://github.com/dotnet/efcore/issues/4526#issuecomment-2776137211) in [dotnet/efcore](https://github.com/dotnet/efcore)
-2. 🗣 Commented on [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146#issuecomment-2773162132) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
+1. 🎉 Merged PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 💪 Opened PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 3. ❗ Opened issue [#146](https://github.com/InfinityFlowApp/aspire-temporal/issues/146) in [InfinityFlowApp/aspire-temporal](https://github.com/InfinityFlowApp/aspire-temporal)
 4. ❗ Opened issue [#61043](https://github.com/dotnet/aspnetcore/issues/61043) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 5. 🗣 Commented on [#71](https://github.com/divyeshio/next-airbnb/pull/71#issuecomment-2171989522) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
