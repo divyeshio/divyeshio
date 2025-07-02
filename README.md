@@ -35,16 +35,16 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/divyeshio/commandly/pull/3) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-2. 💪 Opened PR [#3](https://github.com/divyeshio/commandly/pull/3) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-3. 🎉 Merged PR [#2](https://github.com/divyeshio/commandly/pull/2) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-4. 💪 Opened PR [#2](https://github.com/divyeshio/commandly/pull/2) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-5. 🎉 Merged PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-6. 💪 Opened PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-7. 🗣 Commented on [#48185](https://github.com/dotnet/aspnetcore/issues/48185#issuecomment-1713833682) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-8. 🎉 Merged PR [#133](https://github.com/divyeshio/SmartLearning/pull/133) in [divyeshio/SmartLearning](https://github.com/divyeshio/SmartLearning)
-9. 🎉 Merged PR [#69](https://github.com/divyeshio/next-airbnb/pull/69) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
-10. 🎉 Merged PR [#68](https://github.com/divyeshio/next-airbnb/pull/68) in [divyeshio/next-airbnb](https://github.com/divyeshio/next-airbnb)
+1. 🎉 Merged PR [#16](https://github.com/divyeshio/commandly/pull/16) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 💪 Opened PR [#16](https://github.com/divyeshio/commandly/pull/16) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. 🎉 Merged PR [#15](https://github.com/divyeshio/commandly/pull/15) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+4. 💪 Opened PR [#15](https://github.com/divyeshio/commandly/pull/15) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+5. 🎉 Merged PR [#3](https://github.com/divyeshio/commandly/pull/3) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+6. 💪 Opened PR [#3](https://github.com/divyeshio/commandly/pull/3) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+7. 🎉 Merged PR [#2](https://github.com/divyeshio/commandly/pull/2) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+8. 💪 Opened PR [#2](https://github.com/divyeshio/commandly/pull/2) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+9. 🎉 Merged PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+10. 💪 Opened PR [#1](https://github.com/divyeshio/commandly/pull/1) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 <!--END_SECTION:activity-->
 
 </details>
