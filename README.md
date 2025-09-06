@@ -35,7 +35,7 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/divyeshio/commandly/pull/27) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+1. 🗣 Commented on [#11208](https://github.com/dotnet/aspire/issues/11208#issuecomment-3255361867) in [dotnet/aspire](https://github.com/dotnet/aspire)
 2. 💪 Opened PR [#27](https://github.com/divyeshio/commandly/pull/27) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 3. 🎉 Merged PR [#26](https://github.com/divyeshio/commandly/pull/26) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 4. 💪 Opened PR [#26](https://github.com/divyeshio/commandly/pull/26) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
