@@ -35,8 +35,8 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#63174](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-2. 🗣 Commented on [#11925](https://github.com/dotnet/aspire/issues/11925#issuecomment-3514397221) in [dotnet/aspire](https://github.com/dotnet/aspire)
+1. 🗣 Commented on [#10301](https://github.com/dotnet/aspire/issues/10301#issuecomment-3695648818) in [dotnet/aspire](https://github.com/dotnet/aspire)
+2. ❌ Merged PR [#63174](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 3. 🗣 Commented on [#42](https://github.com/keenthemes/reui/issues/42#issuecomment-3421024303) in [keenthemes/reui](https://github.com/keenthemes/reui)
 4. 🗣 Commented on [#42](https://github.com/keenthemes/reui/issues/42#issuecomment-3405723620) in [keenthemes/reui](https://github.com/keenthemes/reui)
 5. ❗ Opened issue [#42](https://github.com/keenthemes/reui/issues/42) in [keenthemes/reui](https://github.com/keenthemes/reui)
