@@ -37,7 +37,7 @@
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#64](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination/issues/64) in [mrahhal/MR.EntityFrameworkCore.KeysetPagination](https://github.com/mrahhal/MR.EntityFrameworkCore.KeysetPagination)
 2. 🗣 Commented on [#10301](https://github.com/dotnet/aspire/issues/10301#issuecomment-3695648818) in [dotnet/aspire](https://github.com/dotnet/aspire)
-3. ❌ Merged PR [#63174](undefined) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+3. 🎉 Merged PR [#63174](https://github.com/dotnet/aspnetcore/pull/63174) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 4. 🗣 Commented on [#42](https://github.com/keenthemes/reui/issues/42#issuecomment-3405723620) in [keenthemes/reui](https://github.com/keenthemes/reui)
 5. ❗ Opened issue [#42](https://github.com/keenthemes/reui/issues/42) in [keenthemes/reui](https://github.com/keenthemes/reui)
 6. 💪 Opened PR [#25](https://github.com/divyeshio/commandly/pull/25) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
