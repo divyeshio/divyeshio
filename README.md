@@ -35,11 +35,11 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#606](https://github.com/Arcenox-co/TickerQ/issues/606) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
-2. ❗ Opened issue [#604](https://github.com/Arcenox-co/TickerQ/issues/604) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
-3. 🗣 Commented on [#590](https://github.com/Arcenox-co/TickerQ/pull/590#issuecomment-3904611826) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
-4. 🗣 Commented on [#42](https://github.com/keenthemes/reui/issues/42#issuecomment-3405723620) in [keenthemes/reui](https://github.com/keenthemes/reui)
-5. ❗ Opened issue [#42](https://github.com/keenthemes/reui/issues/42) in [keenthemes/reui](https://github.com/keenthemes/reui)
+1. 🎉 Merged PR [#88](https://github.com/divyeshio/commandly/pull/88) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 💪 Opened PR [#88](https://github.com/divyeshio/commandly/pull/88) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. ❗ Opened issue [#606](https://github.com/Arcenox-co/TickerQ/issues/606) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
+4. ❗ Opened issue [#604](https://github.com/Arcenox-co/TickerQ/issues/604) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
+5. 🗣 Commented on [#590](https://github.com/Arcenox-co/TickerQ/pull/590#issuecomment-3904611826) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
 6. 💪 Opened PR [#25](https://github.com/divyeshio/commandly/pull/25) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 7. 🎉 Merged PR [#24](https://github.com/divyeshio/commandly/pull/24) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 8. 💪 Opened PR [#24](https://github.com/divyeshio/commandly/pull/24) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
