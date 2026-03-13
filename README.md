@@ -35,16 +35,16 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#109](https://github.com/divyeshio/commandly/pull/109) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-2. 💪 Opened PR [#109](https://github.com/divyeshio/commandly/pull/109) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-3. 🎉 Merged PR [#108](https://github.com/divyeshio/commandly/pull/108) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-4. 💪 Opened PR [#108](https://github.com/divyeshio/commandly/pull/108) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-5. 🎉 Merged PR [#103](https://github.com/divyeshio/commandly/pull/103) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-6. 💪 Opened PR [#103](https://github.com/divyeshio/commandly/pull/103) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-7. ❌ Closed PR [#101](https://github.com/divyeshio/commandly/pull/101) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-8. 🔒 Closed issue [#95](https://github.com/divyeshio/commandly/issues/95) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-9. ❗ Opened issue [#95](https://github.com/divyeshio/commandly/issues/95) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-10. 🎉 Merged PR [#94](https://github.com/divyeshio/commandly/pull/94) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+1. 🎉 Merged PR [#110](https://github.com/divyeshio/commandly/pull/110) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 💪 Opened PR [#110](https://github.com/divyeshio/commandly/pull/110) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. 🎉 Merged PR [#109](https://github.com/divyeshio/commandly/pull/109) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+4. 💪 Opened PR [#109](https://github.com/divyeshio/commandly/pull/109) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+5. 🎉 Merged PR [#108](https://github.com/divyeshio/commandly/pull/108) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+6. 💪 Opened PR [#108](https://github.com/divyeshio/commandly/pull/108) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+7. 🎉 Merged PR [#103](https://github.com/divyeshio/commandly/pull/103) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+8. 💪 Opened PR [#103](https://github.com/divyeshio/commandly/pull/103) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+9. ❌ Closed PR [#101](https://github.com/divyeshio/commandly/pull/101) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+10. 🔒 Closed issue [#95](https://github.com/divyeshio/commandly/issues/95) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 <!--END_SECTION:activity-->
 
 </details>
