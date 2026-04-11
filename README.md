@@ -35,16 +35,16 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#128](https://github.com/divyeshio/commandly/pull/128) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-2. 💪 Opened PR [#128](https://github.com/divyeshio/commandly/pull/128) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-3. 🔒 Closed issue [#706](https://github.com/Arcenox-co/TickerQ/issues/706) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
-4. 🗣 Commented on [#706](https://github.com/Arcenox-co/TickerQ/issues/706#issuecomment-4106286294) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
-5. 🎉 Merged PR [#119](https://github.com/divyeshio/commandly/pull/119) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-6. 💪 Opened PR [#119](https://github.com/divyeshio/commandly/pull/119) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-7. 🎉 Merged PR [#118](https://github.com/divyeshio/commandly/pull/118) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-8. 💪 Opened PR [#118](https://github.com/divyeshio/commandly/pull/118) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-9. 🎉 Merged PR [#117](https://github.com/divyeshio/commandly/pull/117) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-10. 💪 Opened PR [#117](https://github.com/divyeshio/commandly/pull/117) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+1. 🎉 Merged PR [#129](https://github.com/divyeshio/commandly/pull/129) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 💪 Opened PR [#129](https://github.com/divyeshio/commandly/pull/129) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. 🎉 Merged PR [#128](https://github.com/divyeshio/commandly/pull/128) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+4. 💪 Opened PR [#128](https://github.com/divyeshio/commandly/pull/128) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+5. 🔒 Closed issue [#706](https://github.com/Arcenox-co/TickerQ/issues/706) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
+6. 🗣 Commented on [#706](https://github.com/Arcenox-co/TickerQ/issues/706#issuecomment-4106286294) in [Arcenox-co/TickerQ](https://github.com/Arcenox-co/TickerQ)
+7. 🎉 Merged PR [#119](https://github.com/divyeshio/commandly/pull/119) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+8. 💪 Opened PR [#119](https://github.com/divyeshio/commandly/pull/119) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+9. 🎉 Merged PR [#118](https://github.com/divyeshio/commandly/pull/118) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+10. 💪 Opened PR [#118](https://github.com/divyeshio/commandly/pull/118) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 <!--END_SECTION:activity-->
 
 </details>
