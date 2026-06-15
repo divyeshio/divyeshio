@@ -35,7 +35,7 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/divyeshio/commandly/pull/134) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+1. 🗣 Commented on [#321278](https://github.com/microsoft/vscode/issues/321278#issuecomment-4701496991) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. 💪 Opened PR [#134](https://github.com/divyeshio/commandly/pull/134) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 3. 🎉 Merged PR [#133](https://github.com/divyeshio/commandly/pull/133) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 4. 💪 Opened PR [#133](https://github.com/divyeshio/commandly/pull/133) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
