@@ -35,12 +35,12 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4933582737) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
-2. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4924949859) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
-3. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4863490310) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
-4. ℹ️ Labeled issue [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
-5. ❗ Opened issue [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
-6. 🗣 Commented on [#321278](https://github.com/microsoft/vscode/issues/321278#issuecomment-4701496991) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗ Opened issue [#327492](https://github.com/microsoft/vscode/issues/327492) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4933582737) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
+3. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4924949859) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
+4. 🗣 Commented on [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67#issuecomment-4863490310) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
+5. ℹ️ Labeled issue [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
+6. ❗ Opened issue [#67](https://github.com/ltmoerdani/opencode-copilot-chat/issues/67) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
 7. 🎉 Merged PR [#131](https://github.com/divyeshio/commandly/pull/131) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 8. 🗣 Commented on [#131](https://github.com/divyeshio/commandly/pull/131#issuecomment-4254935976) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 9. 💪 Opened PR [#131](https://github.com/divyeshio/commandly/pull/131) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
