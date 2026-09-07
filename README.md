@@ -35,10 +35,10 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9429](https://github.com/microsoft/aspire/issues/9429#issuecomment-5452715440) in [microsoft/aspire](https://github.com/microsoft/aspire)
-2. 🗣 Commented on [#37790](https://github.com/anomalyco/opencode/issues/37790#issuecomment-5276430744) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. 🗣 Commented on [#95](https://github.com/paradedb/efcore-paradedb/pull/95#issuecomment-5180839821) in [paradedb/efcore-paradedb](https://github.com/paradedb/efcore-paradedb)
-4. ℹ️ Labeled issue [#94](https://github.com/paradedb/efcore-paradedb/issues/94) in [paradedb/efcore-paradedb](https://github.com/paradedb/efcore-paradedb)
+1. ℹ️ Labeled issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
+2. ❗ Opened issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
+3. 🗣 Commented on [#9429](https://github.com/microsoft/aspire/issues/9429#issuecomment-5452715440) in [microsoft/aspire](https://github.com/microsoft/aspire)
+4. 🗣 Commented on [#37790](https://github.com/anomalyco/opencode/issues/37790#issuecomment-5276430744) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 5. ❗ Opened issue [#94](https://github.com/paradedb/efcore-paradedb/issues/94) in [paradedb/efcore-paradedb](https://github.com/paradedb/efcore-paradedb)
 6. ℹ️ Labeled issue [#87](https://github.com/ltmoerdani/opencode-copilot-chat/issues/87) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
 7. ❗ Opened issue [#87](https://github.com/ltmoerdani/opencode-copilot-chat/issues/87) in [ltmoerdani/opencode-copilot-chat](https://github.com/ltmoerdani/opencode-copilot-chat)
