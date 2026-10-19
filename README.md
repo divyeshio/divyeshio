@@ -35,9 +35,9 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38932](https://github.com/dotnet/efcore/pull/38932) in [dotnet/efcore](https://github.com/dotnet/efcore)
-2. 🗣 Commented on [#38928](https://github.com/dotnet/efcore/issues/38928#issuecomment-5602430364) in [dotnet/efcore](https://github.com/dotnet/efcore)
-3. 💪 Opened PR [#38932](https://github.com/dotnet/efcore/pull/38932) in [dotnet/efcore](https://github.com/dotnet/efcore)
+1. 🔒 Closed issue [#89](https://github.com/divyeshio/commandly/issues/89) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 🎉 Merged PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. 💪 Opened PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 4. ℹ️ Labeled issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
 5. ❗ Opened issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
 6. 🗣 Commented on [#9429](https://github.com/microsoft/aspire/issues/9429#issuecomment-5452715440) in [microsoft/aspire](https://github.com/microsoft/aspire)
