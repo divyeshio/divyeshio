@@ -35,10 +35,10 @@
   <summary>:zap: Recent Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#89](https://github.com/divyeshio/commandly/issues/89) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-2. 🎉 Merged PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-3. 💪 Opened PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
-4. ℹ️ Labeled issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
+1. 🗣 Commented on [#146](https://github.com/divyeshio/commandly/pull/146#issuecomment-6489337269) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+2. 🔒 Closed issue [#89](https://github.com/divyeshio/commandly/issues/89) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+3. 🎉 Merged PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
+4. 💪 Opened PR [#147](https://github.com/divyeshio/commandly/pull/147) in [divyeshio/commandly](https://github.com/divyeshio/commandly)
 5. ❗ Opened issue [#38928](https://github.com/dotnet/efcore/issues/38928) in [dotnet/efcore](https://github.com/dotnet/efcore)
 6. 🗣 Commented on [#9429](https://github.com/microsoft/aspire/issues/9429#issuecomment-5452715440) in [microsoft/aspire](https://github.com/microsoft/aspire)
 7. 🗣 Commented on [#37790](https://github.com/anomalyco/opencode/issues/37790#issuecomment-5276430744) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
